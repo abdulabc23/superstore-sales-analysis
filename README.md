@@ -167,5 +167,6 @@ Such insights help businesses make informed decisions related to marketing strat
 
 ## Author
 
-Abdul Qadoos
+Abdul Qadoos Bhatti
+
 Aspiring Data Analyst
