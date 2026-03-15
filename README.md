@@ -1,12 +1,14 @@
-**Superstore Sales Data Analysis**
+# Superstore Sales Data Analysis
 
-**Project Overview**
+## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a global superstore retail dataset containing four years of sales data. The goal is to analyze sales performance, identify patterns, and extract meaningful business insights that can help organizations make data-driven decisions.
 
 The dataset includes information about orders, customers, products, regions, and sales values.
 
-**Dataset Information**
+---
+
+## Dataset Information
 
 * **Total Records:** 9,800
 * **Total Columns:** 18
